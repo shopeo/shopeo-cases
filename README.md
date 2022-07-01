@@ -1,0 +1,2 @@
+# SHOPEO Cases Post Type
+
