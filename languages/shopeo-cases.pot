@@ -1,0 +1,32 @@
+# Copyright (C) 2022 Shopeo
+# This file is distributed under the GPL2+.
+msgid ""
+msgstr ""
+"Project-Id-Version: SHOPEO Cases 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/shopeo-cases\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-02T05:12:13+08:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: shopeo-cases\n"
+
+#. Plugin Name of the plugin
+msgid "SHOPEO Cases"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.shopeo.cn"
+msgstr ""
+
+#. Description of the plugin
+msgid "Custom Cases Post Type"
+msgstr ""
+
+#. Author of the plugin
+msgid "Shopeo"
+msgstr ""

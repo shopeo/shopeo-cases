@@ -2,7 +2,7 @@
 /**
  * Plugin Name: SHOPEO Cases
  * Plugin URI: https://www.shopeo.cn
- * Description:
+ * Description: Custom Cases Post Type
  * Author: Shopeo
  * Version: 0.0.1
  * Author URI: https://www.shopeo.cn
