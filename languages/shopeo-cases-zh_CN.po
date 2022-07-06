@@ -4,115 +4,115 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SHOPEO Cases 0.0.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/shopeo-cases\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2022-07-07T07:31:05+08:00\n"
+"PO-Revision-Date: 2022-07-07 07:41+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2022-07-07T07:31:05+08:00\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.6.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1\n"
 "X-Domain: shopeo-cases\n"
 
 #. Plugin Name of the plugin
 msgid "SHOPEO Cases"
-msgstr ""
+msgstr "SHOPEO案例"
 
 #. Plugin URI of the plugin
 #. Author URI of the plugin
 msgid "https://www.shopeo.cn"
-msgstr ""
+msgstr "https://www.shopeo.cn"
 
 #. Description of the plugin
 msgid "Custom Cases Post Type"
-msgstr ""
+msgstr "自定义案例帖子类型"
 
 #. Author of the plugin
 msgid "Shopeo"
-msgstr ""
+msgstr "SHOPEO"
 
-#: shopeo-cases.php:61
-#: shopeo-cases.php:63
+#: shopeo-cases.php:61 shopeo-cases.php:63
 msgid "Cases"
-msgstr ""
+msgstr "案例"
 
 #: shopeo-cases.php:64
 msgid "All Cases"
-msgstr ""
+msgstr "所有案例"
 
 #: shopeo-cases.php:65
 msgid "Case"
-msgstr ""
+msgstr "案例"
 
 #: shopeo-cases.php:66
 msgid "Add New Case"
-msgstr ""
+msgstr "添加新案例"
 
 #: shopeo-cases.php:67
 msgid "Edit Case"
-msgstr ""
+msgstr "编辑案例"
 
 #: shopeo-cases.php:68
 msgid "View Case"
-msgstr ""
+msgstr "查看案例"
 
 #: shopeo-cases.php:69
 msgid "View Cases"
-msgstr ""
+msgstr "查看案例"
 
 #: shopeo-cases.php:70
 msgid "Search Cases"
-msgstr ""
+msgstr "搜索案例"
 
 #: shopeo-cases.php:71
 msgid "No cases found."
-msgstr ""
+msgstr "没有找到案例。"
 
 #: shopeo-cases.php:72
 msgid "No cases found in trash."
-msgstr ""
+msgstr "没有找到案例。"
 
 #: shopeo-cases.php:73
 msgid "Case Archives"
-msgstr ""
+msgstr "案例归档"
 
 #: shopeo-cases.php:74
 msgid "Case Attributes"
-msgstr ""
+msgstr "案例属性"
 
 #: shopeo-cases.php:121
 msgid "Types"
-msgstr ""
+msgstr "类型"
 
-#: shopeo-cases.php:122
-#: shopeo-cases.php:130
+#: shopeo-cases.php:122 shopeo-cases.php:130
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 #: shopeo-cases.php:123
 msgid "Search Types"
-msgstr ""
+msgstr "搜索类型"
 
 #: shopeo-cases.php:124
 msgid "All Types"
-msgstr ""
+msgstr "所有类型"
 
 #: shopeo-cases.php:125
 msgid "Parent Type"
-msgstr ""
+msgstr "上级类型"
 
 #: shopeo-cases.php:126
 msgid "Parent Type:"
-msgstr ""
+msgstr "上级类型："
 
 #: shopeo-cases.php:127
 msgid "Edit Type"
-msgstr ""
+msgstr "编辑类型"
 
 #: shopeo-cases.php:128
 msgid "Update Type"
-msgstr ""
+msgstr "更新类型"
 
 #: shopeo-cases.php:129
 msgid "New Type Name"
-msgstr ""
+msgstr "新类型名称"
