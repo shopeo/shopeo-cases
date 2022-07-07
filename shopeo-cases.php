@@ -115,7 +115,7 @@ if ( ! function_exists( 'shopeo_cases_register_taxonomy_type' ) ) {
 			'rest_base'         => 'types',
 			'query_var'         => true,
 			'rewrite'           => array(
-				'slug' => 'type'
+				'slug' => 'types'
 			),
 			'labels'            => array(
 				'name'              => __( 'Types', 'shopeo-cases' ),
