@@ -112,10 +112,9 @@ if ( ! function_exists( 'shopeo_cases_register_taxonomy_type' ) ) {
 			'show_ui'           => true,
 			'show_admin_column' => true,
 			'show_in_rest'      => true,
-			'rest_base'         => 'types',
 			'query_var'         => true,
 			'rewrite'           => array(
-				'slug' => 'types'
+				'slug' => 'type'
 			),
 			'labels'            => array(
 				'name'              => __( 'Types', 'shopeo-cases' ),
